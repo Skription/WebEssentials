@@ -1,0 +1,12 @@
+name: WebEssentials
+main: net.Skription.WebEssentials
+version: 1.0.0
+author: Skription
+description: Find out servers websites within seconds!
+commands:
+  forums:
+    description: Main command.
+    aliases: [forum]
+  website:
+    description: Website command. Dunno why I made this.
+    aliases: [web, site]
